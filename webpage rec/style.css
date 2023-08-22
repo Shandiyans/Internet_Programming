@@ -1,0 +1,65 @@
+h1{
+    background-color: rgb(175, 134, 212);
+    text-align: center;
+    text-decoration: underline;
+    
+}
+p{
+    text-align: center;
+    font-style: oblique;
+    font-family:sans-serif;
+}
+body{
+    background-image: url("rec.jpg");
+    opacity: 5;
+    background-size: cover;
+}
+table,th,td{
+    border:solid rgb(88, 3, 43);
+    border-collapse: collapse;
+}
+th{
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:100px;
+    padding-right:75px;
+    background-color: rgb(233, 194, 233);
+    font-size: larger;
+    
+}
+th:hover{
+    background-color: rgb(175, 134, 212);}
+
+
+
+#t1:hover{
+    background-color: rgb(247, 244, 247);
+    
+}
+#t2:hover{
+    background-color: rgb(247, 244, 247);
+}
+#t3:hover{
+    background-color: rgb(247, 244, 247);
+}
+#t4:hover{
+    background-color: rgb(247, 244, 247);
+}
+#t5:hover{
+    background-color: rgb(247, 244, 247);
+}
+#t6:hover{
+    background-color: rgb(247, 244, 247);
+}
+
+.one {
+    
+}
+
+.three {
+    font-size: xx-large;
+    text-shadow: 2px 2px rgb(214, 66, 128);
+    text-decoration-skip: 2px;
+}
+
+
